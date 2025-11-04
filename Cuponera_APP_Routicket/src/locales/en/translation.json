@@ -1,0 +1,57 @@
+{
+  "app": {
+    "title": "RouTicket Deals",
+    "subtitle": "Discover exclusive local offers"
+  },
+  "header": {
+    "favorites": "Favorites",
+    "clearFilters": "Clear filters",
+    "dealsFound": "{{count}} deal found",
+    "dealsFound_other": "{{count}} deals found"
+  },
+  "search": {
+    "placeholder": "Search deals...",
+    "noResults": "No deals found",
+    "noResultsDescription": "We couldn't find any deals matching your search. Try adjusting your filters or search terms.",
+    "clearFilters": "Clear filters"
+  },
+  "filters": {
+    "all": "All",
+    "active": "Active",
+    "expiring": "Expiring"
+  },
+  "deal": {
+    "status": {
+      "active": "Active",
+      "expiring": "Expiring Soon",
+      "expired": "Expired"
+    },
+    "expiration": {
+      "noExpiration": "No expiration",
+      "expired": "Expired",
+      "expiresToday": "Expires today",
+      "expiresTomorrow": "Expires tomorrow",
+      "daysLeft": "{{count}} day left",
+      "daysLeft_other": "{{count}} days left"
+    },
+    "code": "Code",
+    "location": "Location available",
+    "locationLabel": "Location",
+    "viewOnMap": "View on map",
+    "viewDetails": "View Details",
+    "getOffer": "Get Offer",
+    "share": "Share",
+    "close": "Close",
+    "save": "Save",
+    "saved": "Saved"
+  },
+  "favorites": {
+    "empty": "No favorites yet",
+    "emptyDescription": "Start saving your favorite deals by tapping the heart icon on any deal card."
+  },
+  "language": {
+    "select": "Select Language",
+    "en": "English",
+    "es": "Español"
+  }
+}

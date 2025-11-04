@@ -1,0 +1,57 @@
+{
+  "app": {
+    "title": "RouTicket Ofertas",
+    "subtitle": "Descubre ofertas locales exclusivas"
+  },
+  "header": {
+    "favorites": "Favoritos",
+    "clearFilters": "Limpiar filtros",
+    "dealsFound": "{{count}} oferta encontrada",
+    "dealsFound_other": "{{count}} ofertas encontradas"
+  },
+  "search": {
+    "placeholder": "Buscar ofertas...",
+    "noResults": "No se encontraron ofertas",
+    "noResultsDescription": "No pudimos encontrar ofertas que coincidan con tu búsqueda. Intenta ajustar tus filtros o términos de búsqueda.",
+    "clearFilters": "Limpiar filtros"
+  },
+  "filters": {
+    "all": "Todas",
+    "active": "Activas",
+    "expiring": "Por vencer"
+  },
+  "deal": {
+    "status": {
+      "active": "Activa",
+      "expiring": "Por vencer",
+      "expired": "Vencida"
+    },
+    "expiration": {
+      "noExpiration": "Sin vencimiento",
+      "expired": "Vencida",
+      "expiresToday": "Vence hoy",
+      "expiresTomorrow": "Vence mañana",
+      "daysLeft": "{{count}} día restante",
+      "daysLeft_other": "{{count}} días restantes"
+    },
+    "code": "Código",
+    "location": "Ubicación disponible",
+    "locationLabel": "Ubicación",
+    "viewOnMap": "Ver en el mapa",
+    "viewDetails": "Ver Detalles",
+    "getOffer": "Obtener Oferta",
+    "share": "Compartir",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "saved": "Guardado"
+  },
+  "favorites": {
+    "empty": "Aún no hay favoritos",
+    "emptyDescription": "Comienza a guardar tus ofertas favoritas tocando el ícono del corazón en cualquier tarjeta de oferta."
+  },
+  "language": {
+    "select": "Seleccionar Idioma",
+    "en": "English",
+    "es": "Español"
+  }
+}
